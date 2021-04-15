@@ -413,6 +413,7 @@ PRODUCT_PACKAGES += \
     init.qcom.post_boot.sh \
     init.qcom.sh \
     init.qcom.usb.sh \
+    init.mi_thermald.rc \
     init.qti.dcvs.sh
 
 PRODUCT_PACKAGES += \
